@@ -44,3 +44,6 @@ tsconfig.json
 client/plugin-module.js
 .vscode
 /iconfont
+
+# 本地配置文件不提交
+config.json
