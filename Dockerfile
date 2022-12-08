@@ -1,4 +1,4 @@
-FROM node:16-apline3.15
+FROM node:16
 ENV TZ="Asia/Shanghai"
 WORKDIR /app
 COPY . /app/
